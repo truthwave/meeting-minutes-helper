@@ -1,3 +1,9 @@
+<p align="center">
+<img width="1536" height="1024" alt="議事録、もう書かなくていい。" src="https://github.com/user-attachments/assets/dfa13c09-cd54-41fe-a5ec-f30d27129edd" />
+
+</p>
+
+
 # 議事録3行要約 & ToDo抽出アシスタント GPT
 
 > 会議の要点を「3行」で即整理。Slack投稿も、ToDo抽出も、これひとつ。
@@ -6,8 +12,7 @@
 
 ## 🎯 概要
 
-このGPTは、会議や打ち合わせのメモ・文字起こしをもとに、  
-目的に応じた「要約・ToDo整理・共有文生成」を行うアシスタントです。
+会議メモや議事録をもとに、「3行要約」「ToDo整理」「共有文」を一瞬で仕上げるGPTです。
 
 ---
 
@@ -80,6 +85,9 @@
 
 このGPTは、Microsoft認定「生成AIによる生産性の向上」講座の知識をもとに、  
 実際の会議現場での「要約・共有・指示出し」の負担を減らすために開発しました。
+「議事録を読み返す時間がない」「ToDoだけ見たい」—— そんな現場の声に応えました。
+
+💡 導入前は、30分かけて書いていた議事録を、3分でSlack投稿できるようになります。
 
 ---
 
@@ -87,6 +95,16 @@
 
 - [Microsoft認定スキル × GPTs活用リポジトリ](https://github.com/TomoProgrammingDayori/ai-productivity-cert-practical-output)
 - [社内FAQ即答アシスタント GPT](https://chatgpt.com/g/g-68a5cf5fc62c81919d198dfa6f0ef496-she-nei-faqji-da-asisutanto-gpt)
+
+---
+
+## 🧑‍💻 作者
+
+[ともプログラム便り](https://github.com/TomoProgrammingDayori)
+AIツールやポートフォリオ開発に関する情報も発信中。
+
+## お気軽にご連絡ください
+[📩 ご相談・お見積もりはこちら](mailto:realmadrid71214591@gmail.com)
 
 ---
 
