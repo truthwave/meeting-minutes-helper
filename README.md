@@ -43,6 +43,17 @@
 
 ---
 
+## 📸 **体験イメージ**
+![デモ動画](https://github.com/TomoProgrammingDayori/meeting-minutes-helper/blob/main/%E8%B3%87%E6%96%99/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)
+
+![定例ミーティングの要点まとめ](https://github.com/TomoProgrammingDayori/meeting-minutes-helper/blob/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E5%AE%9A%E4%BE%8B%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AE%E8%A6%81%E7%82%B9%E3%81%BE%E3%81%A8%E3%82%81.jpeg)
+
+![新規プロジェクトの要点まとめ](https://github.com/TomoProgrammingDayori/meeting-minutes-helper/blob/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E6%96%B0%E8%A6%8F%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E8%A6%81%E7%82%B9%E3%81%BE%E3%81%A8%E3%82%81.jpeg)
+
+![議事録の概要例](https://github.com/TomoProgrammingDayori/meeting-minutes-helper/blob/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E8%AD%B0%E4%BA%8B%E9%8C%B2%E3%81%AE%E8%A6%81%E7%B4%84%E4%BE%8B.jpeg)
+
+---
+
 ## 🧠 入力例
 
 ```
