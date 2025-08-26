@@ -111,7 +111,7 @@
 
 ## 🧑‍💻 作者
 
-[ともプログラム便り](https://github.com/TomoProgrammingDayori)
+[ともAI便り](https://github.com/TomoAIDayori)
 AIツールやポートフォリオ開発に関する情報も発信中。
 
 ## お気軽にご連絡ください
