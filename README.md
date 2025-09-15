@@ -25,14 +25,6 @@
 
 ---
 
-## 🛠 使用方法
-
-1. [GPTのページを開く](https://chatgpt.com/g/g-68a5cc11df888191b7b07a9da688b741-yi-shi-lu-3xing-yao-yue-todochou-chu-asisutanto)  
-2. 会議メモや文字起こしを貼り付ける  
-3. 出力形式を選ぶ（例：「1」で3行要約、「2」で構造化）
-
----
-
 ## 🔢 出力形式
 
 | 番号 | 出力内容 |
