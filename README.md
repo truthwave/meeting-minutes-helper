@@ -94,6 +94,12 @@
 
 ---
 
+👉 [ココナラ販売ページはこちら](https://coconala.com/contents_market/pictures/cmfkjunz2046t8n0hwiupnd2e)
+
+👉 [オプション販売ページはこちら](https://coconala.com/services/3875043)
+
+---
+
 ## 🔗 関連リンク
 
 - [Microsoft認定スキル × GPTs活用リポジトリ](https://github.com/TomoProgrammingDayori/ai-productivity-cert-practical-output)
