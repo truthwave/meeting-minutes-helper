@@ -17,7 +17,7 @@
 ---
 
 ## プロジェクト概要
-[スライド資料はこちら]()
+[スライド資料はこちら](https://github.com/truthwave/meeting-minutes-helper/tree/main/%E8%B3%87%E6%96%99/%E8%AD%B0%E4%BA%8B%E9%8C%B2%E3%82%89%E3%81%8F%E3%82%89%E3%81%8FGPT)
 
 [動画資料はこちら](https://youtu.be/MUdxSbB-X6E)
 
