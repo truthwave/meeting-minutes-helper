@@ -118,8 +118,7 @@ AIプロンプト設計・カスタマイズ・導入サポートをご希望の
 ## 🔗 関連リンク
 
 - [Microsoft認定スキル × GPTs活用リポジトリ](https://github.com/TomoProgrammingDayori/ai-productivity-cert-practical-output)
-- [社内FAQ即答アシスタント GPT](https://chatgpt.com/g/g-68a5cf5fc62c81919d198dfa6f0ef496-she-nei-faqji-da-asisutanto-gpt)
-
+- [社内FAQ即答アシスタント GPT](https://github.com/truthwave/faq-assistant-gpt)
 ---
 
 ## 🧑‍💻 作者
