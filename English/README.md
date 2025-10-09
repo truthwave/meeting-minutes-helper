@@ -75,8 +75,8 @@ If you're interested in AI prompt design, customization, or implementation suppo
 
 ## 🔗 Related Links
 
-- [Microsoft Certified Skills × GPTs Repository](https://github.com/truthwave/ai-productivity-cert-practical-output/English)
-- [In-House FAQ Instant Answer Assistant GPT](https://github.com/truthwave/faq-assistant-gpt/English)
+- [Microsoft Certified Skills × GPTs Repository](https://github.com/truthwave/ai-productivity-cert-practical-output/tree/main/English)
+- [In-House FAQ Instant Answer Assistant GPT](https://github.com/truthwave/faq-assistant-gpt/tree/main/English)
 ---
 
 ## 🧑‍💻 Author
