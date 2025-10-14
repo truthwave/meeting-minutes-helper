@@ -21,9 +21,11 @@
 ---
 
 ## プロジェクト概要
-#### [スライド資料はこちら](https://github.com/truthwave/meeting-minutes-helper/tree/main/%E8%B3%87%E6%96%99/%E8%AD%B0%E4%BA%8B%E9%8C%B2%E3%82%89%E3%81%8F%E3%82%89%E3%81%8FGPT)
+<img width="1280" height="720" alt="議事録" src="https://github.com/user-attachments/assets/08fde479-a949-432f-9a21-ba7336bbfc18" />
 
-#### [動画資料はこちら](https://youtu.be/BX_dgQVtI_g)
+[![もう議事録は書かなくていい｜議事録GPTで会議後3分で共有完了【Slack連携×ToDo自動抽出】](https://github.com/user-attachments/assets/08fde479-a949-432f-9a21-ba7336bbfc18)](https://youtu.be/BX_dgQVtI_g)
+
+#### [スライド資料はこちら](https://github.com/truthwave/meeting-minutes-helper/blob/main/%E8%B3%87%E6%96%99/%E8%AD%B0%E4%BA%8B%E9%8C%B2%E3%82%89%E3%81%8F%E3%82%89%E3%81%8FGPT.pdf)
 
 ---
 
