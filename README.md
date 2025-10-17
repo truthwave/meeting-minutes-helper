@@ -4,7 +4,7 @@
 > 会議の後、あなたはもう文章を打たない。
 
 <p align="center">
-<img width="1536" height="1024" alt="議事録、もう書かなくていい。" src="https://github.com/user-attachments/assets/dfa13c09-cd54-41fe-a5ec-f30d27129edd" />
+<img width="1536" height="1024" alt="議事録 (1)" src="https://github.com/user-attachments/assets/30874b3b-6245-49b3-893c-017b626ef539" />
 
 </p>
 
