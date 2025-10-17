@@ -3,7 +3,9 @@
 > “Meeting minutes that used to take 30 minutes are now done in 3.”
 > After meetings, you won't type another word.
 
-<p align="center"><img width="1536" height="1024" alt="議事録らくらく GPT" src="https://github.com/user-attachments/assets/75d3b60d-80a9-46d9-a16f-1d374ff77063" /></p>
+<p align="center">
+<img width="1536" height="1024" alt="議事録 (2)" src="https://github.com/user-attachments/assets/12af960b-3aae-4143-b5e5-5315934bc918" />
+</p>
 
 ---
 
