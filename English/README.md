@@ -4,7 +4,7 @@
 > After meetings, you won't type another word.
 
 <p align="center">
-<img width="1536" height="1024" alt="議事録 (2)" src="https://github.com/user-attachments/assets/12af960b-3aae-4143-b5e5-5315934bc918" />
+<img width="1536" height="1024" alt="議事録" src="https://github.com/user-attachments/assets/cbb6476b-3e9e-41ab-a10a-54855e2b1219" />
 </p>
 
 ---
