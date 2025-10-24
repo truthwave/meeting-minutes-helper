@@ -18,7 +18,6 @@
 もう「誰が何をやるんだっけ？」と議論を巻き戻す必要はない。
 
 ---
-<img width="1280" height="720" alt="議事録" src="https://github.com/user-attachments/assets/f4549e2d-a699-4b31-9b25-9734fb97f7be" />
 
 ## プロジェクト概要
 
