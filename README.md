@@ -20,7 +20,6 @@
 ---
 
 ## プロジェクト概要
-<img width="1280" height="720" alt="議事録" src="https://github.com/user-attachments/assets/6438ce39-c7fa-477a-9657-5bf094f97c2d" />
 
 [![もう議事録は書かなくていい｜議事録GPTで会議後3分で共有完了【Slack連携×ToDo自動抽出】](https://github.com/user-attachments/assets/6438ce39-c7fa-477a-9657-5bf094f97c2d)](https://youtu.be/BX_dgQVtI_g)
 
