@@ -35,11 +35,9 @@ No more backtracking discussions like “Who was supposed to do what again?”
 
 ## 📸Experience Image
 
-![Demo](https://github.com/truthwave/meeting-minutes-helper/blob/main/English/Demo%20Movie.gif)
+![Demo](https://github.com/truthwave/meeting-minutes-helper/blob/main/English/Materials/Demo%20Movie.gif)
 
-![photo](https://github.com/truthwave/meeting-minutes-helper/blob/main/English/Summary_AppLaunch_FAQ.jpeg)
-
-![photo2](https://github.com/truthwave/meeting-minutes-helper/blob/main/English/Summary_LaunchPrep.jpeg)
+### [Screenshot](https://github.com/truthwave/meeting-minutes-helper/tree/main/English/Materials/Screenshot)
 
 ---
 
