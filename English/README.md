@@ -19,6 +19,17 @@ No more backtracking discussions like “Who was supposed to do what again?”
 
 ---
 
+## Project Overview
+<img width="1280" height="720" alt="議事録" src="https://github.com/user-attachments/assets/4d773eb9-cc7f-4268-9a86-c5fa606b071d" />
+
+### Watch on YouTube
+[![No More Meeting Minutes to Write｜Share Minutes in 3 Minutes After Meetings with Meeting Minutes GPT【Slack Integration × Automatic To-Do Extraction】](https://github.com/user-attachments/assets/4d773eb9-cc7f-4268-9a86-c5fa606b071d)](https://youtu.be/BX_dgQVtI_g)
+
+#### [Slide Materials](https://github.com/truthwave/meeting-minutes-helper/blob/main/English/Materials/Meeting%20Minutes%20Made%20Easy%20GPT.pdf)
+
+---
+
+
 ## Before → After
 **Before**
 - 30 minutes for meeting minutes
