@@ -85,11 +85,11 @@ No more backtracking discussions like “Who was supposed to do what again?”
 
 ## 🛒 Try It Now
 
-This project is currently available for purchase on Coconala.  
+This project is currently available for purchase.  
 If you're interested in AI prompt design, customization, or implementation support, please inquire via the link below.
 
 
-### 👉 [Coconala Sales Page](https://coconala.com/contents_market/pictures/cmfkjunz2046t8n0hwiupnd2e)
+### 👉 [note Sales Page](https://note.com/truth_wave/n/n6c821e4f934c)
 
 #### 👉 [Optional Add-ons Page](https://coconala.com/services/3875043)
 
