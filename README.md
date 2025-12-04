@@ -90,7 +90,7 @@ AIプロンプト設計・カスタマイズ・導入サポートをご希望の
 
 ### 👉 [note販売ページはこちら](https://note.com/truth_wave/n/n6c821e4f934c)
 
-#### 👉 [オプション販売ページはこちら](https://coconala.com/services/3875043)
+#### 👉 [オプション販売ページはこちら](https://note.com/truth_wave/n/nb18071642e41)
 
 ---
 
