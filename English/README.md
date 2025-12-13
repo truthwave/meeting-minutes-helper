@@ -83,15 +83,20 @@ No more backtracking discussions like “Who was supposed to do what again?”
 
 ---
 
-## 🛒 Try It Now
+## Trying Out Truth Wave GPTs
 
-This project is currently available for purchase.  
-If you're interested in AI prompt design, customization, or implementation support, please inquire via the link below.
+The content written in this blog is designed to be usable as a “working GPT.”
+
+- For those who want everything organized (GPT core + optional materials)
+  This plan bundles the GPT core with optional materials like checklists and templates.
+### [→ Truth Wave GPTs Set (GPT + Optional Materials)](https://note.com/truth_wave/n/n5e5c05bcab6d)
 
 
-### 👉 [note Sales Page](https://note.com/truth_wave/n/n6c821e4f934c)
+- For those who want to try just one thing first (GPT core only)
+  This is for those who want to use only the GPT core for this specific theme, pinpointed for immediate use.
+### [→ Try this GPT as a standalone item (GPT core only)](https://note.com/truth_wave/n/n6c821e4f934c)
 
-#### 👉 [Optional Add-ons Page](https://coconala.com/services/3875043)
+Translated with DeepL.com (free version)
 
 ---
 
