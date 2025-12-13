@@ -89,12 +89,12 @@
 - まとめて整えたい方へ（GPT本体＋オプション資料つき）
 　GPT本体にくわえて、チェックリストやテンプレートなどのオプション資料も
 　一式セットにしたプランです。
-　###[→ Truth Wave GPTs セット（GPT＋オプション資料つき）](https://note.com/truth_wave/n/n5e5c05bcab6d)
+### [→ Truth Wave GPTs セット（GPT＋オプション資料つき）](https://note.com/truth_wave/n/n5e5c05bcab6d)
 
 
 - まずは一点だけ試したい方へ（GPT本体のみ）
 　今回のテーマのGPT本体だけを、ピンポイントで使ってみたい方向けです。
-　### [→ このGPTを単品で使ってみる（GPT本体のみ）](https://note.com/truth_wave/n/n6c821e4f934c)
+### [→ このGPTを単品で使ってみる（GPT本体のみ）](https://note.com/truth_wave/n/n6c821e4f934c)
 
 ---
 
