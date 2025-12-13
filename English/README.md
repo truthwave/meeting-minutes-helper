@@ -96,8 +96,6 @@ The content written in this blog is designed to be usable as a “working GPT.�
   This is for those who want to use only the GPT core for this specific theme, pinpointed for immediate use.
 ### [→ Try this GPT as a standalone item (GPT core only)](https://note.com/truth_wave/n/n6c821e4f934c)
 
-Translated with DeepL.com (free version)
-
 ---
 
 ## 🔗 Related Links
