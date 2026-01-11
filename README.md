@@ -19,15 +19,6 @@
 
 ---
 
-## プロジェクト概要
-
-### Youtubeはこちら
-[![もう議事録は書かなくていい｜議事録GPTで会議後3分で共有完了【Slack連携×ToDo自動抽出】](https://github.com/user-attachments/assets/f9efdc9e-8145-42d0-9850-1adf1b479364)](https://youtu.be/BX_dgQVtI_g)
-
-#### [スライド資料はこちら](https://github.com/truthwave/meeting-minutes-helper/blob/main/%E8%B3%87%E6%96%99/%E8%AD%B0%E4%BA%8B%E9%8C%B2%E3%82%89%E3%81%8F%E3%82%89%E3%81%8FGPT.pdf)
-
----
-
 ## Before → After
 **Before**
 - 議事録に30分
